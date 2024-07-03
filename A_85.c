@@ -1,4 +1,4 @@
-//Write a program containing aa function that checks whether a given year is a leap year and returns 1 or accordingly.
+//Write a program containing a function that checks whether a given year is a leap year and returns 1 or accordingly.
 #include<stdio.h>
 
 int isleapyear(int year);
